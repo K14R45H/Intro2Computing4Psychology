@@ -1,3 +1,5 @@
+Here's my forked version of Prof. Britt Anderson's repo of his introductory computing course for psych students. Yaaay!
+
 #+Title: Introduction to Computing for Psychology Students
 #+Author: Britt Anderson
 
